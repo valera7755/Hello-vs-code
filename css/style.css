@@ -1,0 +1,17 @@
+header {
+  background-color: #e7e7e7;
+  font-size: 20px;
+}
+
+body {
+  background-color: #e7e7ee;
+}
+
+body div {
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.red {
+  color: blue;
+}
